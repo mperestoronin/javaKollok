@@ -1,0 +1,1 @@
+insert into hotel(name, price_per_night, rating, description) values ('Moscow', 300, 4.7, 'Wonderful hotel')
